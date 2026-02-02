@@ -76,7 +76,7 @@ A one-time Assistant was created via the OpenAI Playground UI to verify retrieva
 The Assistant correctly answers using the uploaded documents and cites the relevant
 OptiSigns support article.
 
-📸 Screenshot: `screenshots/playground_youtube_answer.png`
+📸 Screenshot: ![Screenshot](https://github.com/gkynajru/cryptic-bot/blob/main/screenshot/playground_youtube_answer.png)
 
 ---
 
