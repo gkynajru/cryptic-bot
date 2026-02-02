@@ -46,25 +46,6 @@ The container runs once and exits with code 0.
 
 ---
 
-## Scraping & Normalization
-
-* Source: `support.optisigns.com` (Zendesk Help Center API)
-* Articles scraped: 50
-* Navigation, ads, and scripts are removed
-* Markdown preserves headings, lists, code blocks, and relative links
-* Each file includes an `Article URL:` line for citation
-
----
-
-## Vector Store & Chunking Strategy
-
-* Markdown files are uploaded programmatically via OpenAI API
-* Files are attached using `file_batches.create_and_poll`
-* Chunking is handled by OpenAI’s default semantic chunker
-* Each article is chunked by section, preserving context while keeping retrieval precise
-
----
-
 ## Assistant Sanity Check
 
 A one-time Assistant was created via the OpenAI Playground UI to verify retrieval.
