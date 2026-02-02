@@ -85,6 +85,9 @@ OptiSigns support article.
 The scraper-uploader is designed to run as a daily job:
 
 * Re-scrapes articles
-* Detects new or updated content via SHA-256 hashing
 * Uploads only deltas
 * Logs added, updated, and skipped counts
+
+Note: I don't know how to get the link of daily job logs, so I put the screenshot of logs here:
+
+📸 Screenshot: ![Screenshot](https://github.com/gkynajru/cryptic-bot/blob/main/screenshot/playground_youtube_answer.png)
