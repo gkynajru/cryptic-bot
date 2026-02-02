@@ -88,6 +88,8 @@ The scraper-uploader is designed to run as a daily job:
 * Uploads only deltas
 * Logs added, updated, and skipped counts
 
-Note: I don't know how to get the link of daily job logs, so I put the screenshot of logs here:
+Note: I don't know how to get the link of daily job logs, so I put the screenshot of the logs here:
 
-📸 Screenshot: ![Screenshot](https://github.com/gkynajru/cryptic-bot/blob/main/screenshot/playground_youtube_answer.png)
+📸 Activities: ![Screenshot](https://github.com/gkynajru/cryptic-bot/blob/main/screenshot/Logs.png)
+
+📸 Details: ![Screenshot](https://github.com/gkynajru/cryptic-bot/blob/main/screenshot/log_detail.png)
